@@ -1,0 +1,32 @@
+{
+  "name": "RIFE Coin",
+  "symbol": "RIFEAI",
+  "description": "RIFE Coin represents the future of decentralized finance, harnessing the power of artificial intelligence to deliver superior trading experiences.",
+  "image": "https://raw.githubusercontent.com/RIFEAICOIN/rife-token-assets/main/maincoin.png",
+  "external_url": "https://www.coinrife.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RIFEAICOIN/rife-token-assets/main/maincoin.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/RIFEAICOIN/rife-token-assets/main/rifebimage.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "attributes": [
+    {
+      "trait_type": "website",
+      "value": "https://www.coinrife.com"
+    }
+  ],
+  "extensions": {
+    "website": "https://www.coinrife.com",
+    "twitter": "https://twitter.com/rifecoin",
+    "coingeckoId": "rife-coin"
+  }
+}
